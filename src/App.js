@@ -1,7 +1,20 @@
 import "./App.css";
+import Header from "./components/Header";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Route, Routes } from "react-router-dom";
+import Cards from "./components/Cards";
+import CardsDetail from "./components/CardsDetail";
 
 function App() {
-  return <h1>hello world</h1>;
+  return (
+    <>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Cards />} />
+        <Route path="/cart" element={<CardsDetail />} />
+      </Routes>
+    </>
+  );
 }
 
 export default App;
