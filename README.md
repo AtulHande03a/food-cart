@@ -18,6 +18,20 @@
 - CRUD functionality 
 
 ---
+<br />
+<br />
+<!-- BUILT WITH -->
+
+## **Technology/ Languages Used**
+
+- React Js
+- CSS
+- Redux
+- React Router v6
+
+
+<br />
+<br />
 
 
 
