@@ -1,7 +1,7 @@
-<h1 align="center" font-weight: bold">Redux Blog App</h1>
+<h1 align="center" font-weight: bold">Food Cart App</h1>
 
 <p align="center"> 
-<br/>A blog app created using React Js , Redux toolkit.  </p>
+<br/>A food cart app created using React Js and Redux </p>
 
 ---
 
@@ -9,17 +9,19 @@
 
 ## v1 :
 
-- Basic Homepage which shows all the blogs
-- Edit and save a blog
-- View a single blog
-- Add emoji reactions to the blog
-- View the User list and there respective blog added by them
-- CRUD functionality in blog app.
+- Basic Homepage which shows all the food items
+- Add the food item to the cart
+- View single food item that was added
+- Remove food item from cart
+- CRUD functionality 
 
 ---
 
-[screen-capture (3).webm](https://user-images.githubusercontent.com/76784537/190634875-468f8213-40ea-4887-982b-c33e84b2d29b.webm)
 
-![Screenshot (137)](https://user-images.githubusercontent.com/76784537/190633119-45a33fbe-0522-48fd-9428-42e614ed4250.png)
-![Screenshot (138)](https://user-images.githubusercontent.com/76784537/190633128-d0208153-2265-4820-8a18-d9722b42cf77.png)
-![Screenshot (139)](https://user-images.githubusercontent.com/76784537/190633134-98cde819-cf9b-449f-aea2-c8521128d168.png)
+[screen-capture (4).webm](https://user-images.githubusercontent.com/7
+
+
+![Screenshot (140)](https://user-images.githubusercontent.com/76784537/190640732-9e179685-2df9-4939-aabf-2f843a1284be.png)
+6784537/190640618-2e11cb0e-89b6-4b30-afd9-277a2415e664.webm)
+![Screenshot (141)](https://user-images.githubusercontent.com/76784537/190640753-ec9ba515-cf4a-4594-bd20-35d0b7097559.png)
+![Screenshot (142)](https://user-images.githubusercontent.com/76784537/190640764-9ebad56d-18a8-4bf2-a29c-0af4c1497db0.png)
