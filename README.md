@@ -3,6 +3,8 @@
 <p align="center"> 
 <br/>A food cart app created using React Js and Redux </p>
 
+<h3><a href='https://foodcartss.netlify.app/'>App Link</a></h3>
+
 ---
 
 ---
@@ -18,7 +20,8 @@
 ---
 
 
-[screen-capture (4).webm](https://user-images.githubusercontent.com/7
+
+[screen-capture (6).webm](https://user-images.githubusercontent.com/76784537/190641641-ee688553-830c-4fcf-b317-c0af1ccfa758.webm)
 
 
 ![Screenshot (140)](https://user-images.githubusercontent.com/76784537/190640732-9e179685-2df9-4939-aabf-2f843a1284be.png)
